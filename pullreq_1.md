@@ -24,21 +24,21 @@ What to do when you want to report a bug or issue
 ---
 ### [1- Go to **Tab Issues -> New Issue**](https://github.com/asistex/ighoo/issues/new/choose)
 
-[![image](https://raw.githubusercontent.com/asistex/ighoo/master/.github/ISSUE_TEMPLATE/btn_issue.jpg)](https://github.com/asistex/ighoo/issues/new/choose)
+[![image](https://github.com/asistex/github_tips/raw/main/btn_issue.jpg/btn_issue.jpg)](https://github.com/asistex/ighoo/issues/new/choose)
 
 ---
 You have two options to make an issue - report in github or in the forum
 
 ### [2- click on **Get Started or Open**](https://github.com/asistex/ighoo/issues/new?assignees=&labels=&template=bug_report.md&title=)
 
-[![image](https://raw.githubusercontent.com/asistex/ighoo/master/.github/ISSUE_TEMPLATE/get_started.jpg)](https://github.com/asistex/ighoo/issues/new?assignees=&labels=&template=bug_report.md&title=)
+[![image](https://github.com/asistex/github_tips/raw/main/btn_issue.jpg/get_started.jpg)](https://github.com/asistex/ighoo/issues/new?assignees=&labels=&template=bug_report.md&title=)
 
 ---
 ### [3- **Fill form**](https://github.com/asistex/ighoo/issues/new?assignees=&labels=&template=bug_report.md&title=)
 
 Add title (mandatory) and fill the form. Submit new issue.
 
-[![image](https://raw.githubusercontent.com/asistex/ighoo/master/.github/ISSUE_TEMPLATE/fill_form.jpg)](https://github.com/asistex/ighoo/issues/new?assignees=&labels=&template=bug_report.md&title=)
+[![image](https://github.com/asistex/github_tips/raw/main/btn_issue.jpg/fill_form.jpg)](https://github.com/asistex/ighoo/issues/new?assignees=&labels=&template=bug_report.md&title=)
 
 ---
 
@@ -46,7 +46,7 @@ Add title (mandatory) and fill the form. Submit new issue.
 ## Pull Requests
 
 Your pull requests are welcome; however, they may not be accepted for various reasons.
-Read [**`pull_request_template.md`**](https://github.com/asistex/ighoo/blob/master/.github/PULL_REQUEST_TEMPLATE/pull_request_template.md) for a few guidelines listed will help speed up the process of getting them fixed.
+Read [**`pull_request_template.md`**](https://github.com/asistex/github_tips/raw/main/btn_issue.jpg/pull_request_template.md) for a few guidelines listed will help speed up the process of getting them fixed.
 All Pull Requests, except for translations and user documentation, need to be attached to a issue on GitHub. For Pull Requests regarding enhancements and questions, the issue must first be approved by one of project's administrators before being merged into the project. An approved issue will have the label **`Accepted`**. For issues that have not been accepted, you may request to be assigned to that issue.
 
 Opening a issue beforehand allows the administrators and the community to discuss bugs and enhancements before work begins, preventing wasted effort.
@@ -74,7 +74,7 @@ In short: The easier the code review is, the better the chance your pull request
 
 What to do when you made changes in your fork and you want to add them to the master
 
-[![image](https://raw.githubusercontent.com/asistex/ighoo/master/.github/ISSUE_TEMPLATE/pr1.jpg)](https://github.com/asistex/ighoo/issues/new?assignees=&labels=&template=bug_report.md&title=)
+[![image](https://github.com/asistex/github_tips/raw/main/btn_issue.jpg/pr1.jpg)](https://github.com/asistex/ighoo/issues/new?assignees=&labels=&template=bug_report.md&title=)
 
 
 
@@ -87,7 +87,7 @@ What to do when you made changes in your fork and you want to add them to the ma
 [Go Top](#Top) [Init](#init)
 
 
-[![image](https://raw.githubusercontent.com/asistex/ighoo/master/.github/ISSUE_TEMPLATE/pr2.jpg)](https://github.com/asistex/ighoo/issues/new?assignees=&labels=&template=bug_report.md&title=)
+[![image](https://github.com/asistex/github_tips/raw/main/btn_issue.jpg/pr2.jpg)](https://github.com/asistex/ighoo/issues/new?assignees=&labels=&template=bug_report.md&title=)
 
 
 

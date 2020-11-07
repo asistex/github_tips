@@ -1,2 +1,2 @@
 # github_tips
- github_tips
+ github tips
