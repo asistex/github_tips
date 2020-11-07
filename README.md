@@ -82,7 +82,7 @@ What to do when you made changes in your fork and you want to add them to the ma
 
 ---
 
-## **` Pull Request. Master is ahead to Repo`**<a name="pull2"></a>
+## **` Pull Request. Your Repo is behind to Master`**<a name="pull2"></a>
 
 [Go Top](#Top) [Init](#init)
 
