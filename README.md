@@ -200,11 +200,11 @@ What to do when you want to add to your fork the changes in the master.
 
 From this window you can select the branch to work or create a new one.
 
-[![image](https://github.com/asistex/github_tips/raw/main/btn_branch.jpg)]())
-
 Type on `Find or create a branch..` the name of a new branch.
 
 **`Make sure your branch name wasn't used before`** - you can add date (for example `branch_20201120`) to ensure its uniqueness.
+
+[![image](https://github.com/asistex/github_tips/raw/main/btn_branch.jpg)]())
 
 
 [Go Init](#init)
@@ -218,12 +218,47 @@ Type on `Find or create a branch..` the name of a new branch.
 [Go Init](#init)
 
 4 ofi ass
+To make a **Pull Request** click on button `Pull Request`
+
+[![image](https://github.com/asistex/github_tips/raw/main/btn_pr.jpg)]()
+
+Now you'll see something like this:
+
+[![image](https://github.com/asistex/github_tips/raw/main/compare3.jpg)]()
+
+And with the link **`Compare across forks`** you can select from and where to make the **Pull Request**.
+
+Take a look at the arrow. That means from the right to the left. So in this case:
+
+[![image](https://github.com/asistex/github_tips/raw/main/compare4.jpg)]()
+
+You'll gonna update `asistex/hmg` branch `master` from `HMG-Official/HMG` branch `master`
+
+Click on **`Compare across forks`** to change
+
+    **base repository**:  and  **base**:branch
+    **head repository**:  and  **compare**:branch
+
+After you are sure about what to do, you'll see a list of files changed with the diff in red and green. Check it and then click on **Create a Pull Request**
+
+After that:
+
+Fill the title and the form with info about pull request and click on **Create a Pull Request**
+
+If you are making a pull request to another fork then all was done.
+
+If you are updating your fork from another fork then click on **Merge pull request** and
+** Confirm merge**
+
+[Go Init](#init)
 
 
-[![image](https://github.com/asistex/github_tips/raw/main/btn_pr.jpg)]())
 
 
-[How to select from where and to where make the **pull request**](#fromto)
+---
+This document Copyright &copy;&nbsp;2020&ndash;present [asistex](https://github.com/asistex/)<br>
+[![Creative Commons Attribution-ShareAlike 4.0](https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
 
 
 
