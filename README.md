@@ -73,12 +73,13 @@ Add title (mandatory) and fill the form. **`Submit new issue`**
 
 Isolate the problem — create a reduced test case and a live example.
 
-A good bug report shouldn't leave others needing to chase you up for more information.
+A good bug report shouldn't leave others chasing you up for more information.
 
 * Please try to be as detailed as possible in your report.
 * What is your environment and OS?
 * What steps will reproduce the issue?
-* What would you expect to be the outcome?
+* What you see/get
+* What would you expect to see/get
 
 All these details will help people to fix any potential bugs.
 
@@ -89,7 +90,7 @@ A summary of the issue and the OS environment in which it occurs. If suitable, i
 * This is the first step
 * This is the second step
 * Further steps, etc.
-* a link to the reduced sample test
+* a link to a reduced sample test
 * Any other information you want to share that is relevant to the issue being reported. This might include the lines of code that you have identified as causing the bug, and potential solutions (and your opinions on their merits).
 
 [![image](https://github.com/asistex/github_tips/raw/main/fill_form.jpg)](https://github.com/asistex/ighoo/issues/new?assignees=&labels=&template=bug_report.md&title=)
@@ -107,18 +108,19 @@ A summary of the issue and the OS environment in which it occurs. If suitable, i
 
 **Pull Request**, patches, improvements, new features are a fantastic help.
 
-Please ask first on the forum before embarking on any significant pull request.
+Please ask first on the forum before start any significant pull request.
 
-Your pull requests are welcome; however, they may not be accepted for various reasons.
+Your pull requests are welcome however, they may not be accepted for various reasons.
 
-All **Pull Requests** need to be attached to a **issue** on GitHub. For **Pull Requests** regarding enhancements and questions, the issue must first be approved by one of project's administrators before being merged into the project. An approved issue will have the label **`Accepted`**. For issues that have not been accepted, you may request to be assigned to that issue.
+All **Pull Requests** need to be attached to a **issue** on GitHub. For **Pull Requests** regarding enhancements and questions, the issue must first be approved by one of project's administrators before being merged into the project. For issues that have not been accepted, you may request to be assigned to that issue.
 
 `Opening a issue beforehand allows the administrators and the community to discuss bugs and enhancements before work begins, preventing wasted effort.`
+
 
 ### Guidelines for pull requests
 
 1. Respect coding style.
-2. Create a new branch for each **Pull Request**. [How to create a branch](#branch)
+2. Create a new branch for each **Pull Request** and make changes in there. [How to create a branch](#branch)
 3. Single feature or bug-fix per **Pull Request**.
 4. Make single commit per **Pull Request**.
 5. Make your modification compact - don't reformat source code in your request. It makes code review more difficult.
@@ -206,6 +208,27 @@ Type on `Find or create a branch..` the name of a new branch.
 
 [![image](https://github.com/asistex/github_tips/raw/main/btn_branch.jpg)]())
 
+Basic Branching and Merging
+
+Let’s go through a simple example of branching and merging with a workflow that you might use in the real world. You’ll follow these steps:
+
+    Do some work on a website.
+
+    Create a branch for a new user story you’re working on.
+
+    Do some work in that branch.
+
+At this stage, you’ll receive a call that another issue is critical and you need a hotfix. You’ll do the following:
+
+    Switch to your production branch.
+
+    Create a branch to add the hotfix.
+
+    After it’s tested, merge the hotfix branch, and push to production.
+
+    Switch back to your original user story and continue working.
+
+
 
 [Go Init](#init)
 
@@ -259,6 +282,11 @@ If you are updating your fork from another fork then click on **Merge pull reque
 **Confirm merge**
 
 [Go Init](#init)
+
+
+[A real help of git](https://git-scm.com/book/en/)
+
+[A real help of github](https://docs.github.com/en/)
 
 
 
