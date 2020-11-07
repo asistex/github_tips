@@ -118,11 +118,11 @@ All **Pull Requests** need to be attached to a **issue** on GitHub. For **Pull R
 ### Guidelines for pull requests
 
 1. Respect coding style.
-2. Create a new branch for each PR. [How to create a branch](#branch)
-3. Single feature or bug-fix per PR.
-4. Make single commit per PR.
+2. Create a new branch for each **Pull Request**. [How to create a branch](#branch)
+3. Single feature or bug-fix per **Pull Request**.
+4. Make single commit per **Pull Request**.
 5. Make your modification compact - don't reformat source code in your request. It makes code review more difficult.
-6. Warn if the **Pull Request** broke `backward compatibility`
+6. Warn to the group if the **Pull Request** broke `backward compatibility`
 
 In short: The easier the code review is, the better the chance your pull request will get accepted.
 
@@ -217,7 +217,6 @@ Type on `Find or create a branch..` the name of a new branch.
 
 [Go Init](#init)
 
-4 ofi ass
 To make a **Pull Request** click on button `Pull Request`
 
 [![image](https://github.com/asistex/github_tips/raw/main/btn_pr.jpg)]()
@@ -228,11 +227,20 @@ Now you'll see something like this:
 
 And with the link **`Compare across forks`** you can select from and where to make the **Pull Request**.
 
-Take a look at the arrow. That means from the right to the left. So in this case:
+Take a look at the arrow. So in this case:
 
 [![image](https://github.com/asistex/github_tips/raw/main/compare4.jpg)]()
 
-You'll gonna update `asistex/hmg` branch `master` from `HMG-Official/HMG` branch `master`
+You'll gonna
+```
+   update fork
+
+   `asistex/hmg` branch `master`
+
+   from
+
+   HMG-Official/HMG` branch `master`
+```
 
 Click on **`Compare across forks`** to change
 
@@ -248,7 +256,7 @@ Fill the title and the form with info about pull request and click on **Create a
 If you are making a pull request to another fork then all was done.
 
 If you are updating your fork from another fork then click on **Merge pull request** and
-** Confirm merge**
+**Confirm merge**
 
 [Go Init](#init)
 
