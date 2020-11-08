@@ -1,6 +1,12 @@
-# GitHub tips <a name="init"></a>
+# ***GitHub tips*** <a name="init"></a>
 
-##How to collaborate on a project using GitHub in an easy way
+---
+
+## How to collaborate on a project using GitHub in an easy way
+
+Very basic task on GitHub
+
+---
 
 | index |
 | --- |
@@ -13,7 +19,7 @@
 | [Editing sources files](#edit) |
 | [How to create a branch](#branch) |
 
-[Go Top](#Top) [Init](#init)
+[Go Top](#Top) [Go Init](#init)
 
 
 
@@ -47,23 +53,23 @@ Changes are in your **branch** but you want to send those changes to your collea
 What to do when you want to report a bug or issue
 
 ---
-### [1- Go to **Tab Issues -> New Issue**](https://github.com/asistex/ighoo/issues/new/choose)
+### 1- Go to **Tab Issues -> New Issue**
 
-[![image](https://github.com/asistex/github_tips/raw/main/btn_issue.jpg)](https://github.com/asistex/ighoo/issues/new/choose)
+![image](https://github.com/asistex/github_tips/raw/main/btn_issue.jpg)
 
 [Go Init](#init)
 
 ---
 You have two options to make an issue - report in github or in the forum
 
-### [2- click on **Get Started or Open**](https://github.com/asistex/ighoo/issues/new?assignees=&labels=&template=bug_report.md&title=)
+### 2- click on **Get Started or Open**
 
-[![image](https://github.com/asistex/github_tips/raw/main/get_started.jpg)](https://github.com/asistex/ighoo/issues/new?assignees=&labels=&template=bug_report.md&title=)
+![image](https://github.com/asistex/github_tips/raw/main/get_started.jpg)
 
 [Go Init](#init)
 
 ---
-### [3- **Fill form**](https://github.com/asistex/ighoo/issues/new?assignees=&labels=&template=bug_report.md&title=)
+### 3- **Fill form**
 
 Use the GitHub issue search — check if the issue has already been reported.
 
@@ -93,7 +99,7 @@ A summary of the issue and the OS environment in which it occurs. If suitable, i
 * a link to a reduced sample test
 * Any other information you want to share that is relevant to the issue being reported. This might include the lines of code that you have identified as causing the bug, and potential solutions (and your opinions on their merits).
 
-[![image](https://github.com/asistex/github_tips/raw/main/fill_form.jpg)](https://github.com/asistex/ighoo/issues/new?assignees=&labels=&template=bug_report.md&title=)
+![image](https://github.com/asistex/github_tips/raw/main/fill_form.jpg)
 
 [Go Init](#init)
 
@@ -145,7 +151,7 @@ In short: The easier the code review is, the better the chance your pull request
 
 What to do when you made changes in your fork and you want to add them to the master.
 
-[![image](https://github.com/asistex/github_tips/raw/main/pr1.jpg)](https://github.com/asistex/ighoo/issues/new?assignees=&labels=&template=bug_report.md&title=)
+![image](https://github.com/asistex/github_tips/raw/main/pr1.jpg)
 
 [**How to select from where and to where make the pull request**](#fromto)
 
@@ -162,9 +168,61 @@ What to do when you made changes in your fork and you want to add them to the ma
 
 What to do when you want to add to your fork the changes in the master.
 
-[![image](https://github.com/asistex/github_tips/raw/main/pr2.jpg)](https://github.com/asistex/ighoo/issues/new?assignees=&labels=&template=bug_report.md&title=)
+![image](https://github.com/asistex/github_tips/raw/main/pr2.jpg)
 
 [**How to select from where and to where make the pull request**](#fromto)
+
+[Go Init](#init)
+
+
+
+
+---
+
+## **`How to select from where and to where make the **pull request**`**<a name="fromto"></a>
+
+[Go Init](#init)
+
+To make a **Pull Request** click on button `Pull Request`
+
+![image](https://github.com/asistex/github_tips/raw/main/btn_pr.jpg)
+
+Now you'll see something like this:
+
+![image](https://github.com/asistex/github_tips/raw/main/compare3.jpg)
+
+And with the link **`Compare across forks`** you can select from and where to make the **Pull Request**.
+
+Take a look at the arrow. So in this case:
+
+![image](https://github.com/asistex/github_tips/raw/main/compare4.jpg)
+
+You'll gonna
+```
+   update the fork
+
+   `asistex/hmg` branch `master`
+
+   from
+
+   HMG-Official/HMG` branch `master`
+```
+
+Click on **`Compare across forks`** to change
+
+    **base repository**:  and  **base**:branch
+    **head repository**:  and  **compare**:branch
+
+After you are sure about what to do, you'll see a list of files changed with the diff in red and green. Check it and then click on **Create a Pull Request**
+
+After that:
+
+Fill the title and the form with info about pull request and click on **Create a Pull Request**
+
+If you are making a pull request to another fork then all was done.
+
+If you are updating your fork from another fork then click on **Merge pull request** and
+**Confirm merge**
 
 [Go Init](#init)
 
@@ -198,6 +256,8 @@ What to do when you want to add to your fork the changes in the master.
 
 ## **`How to create a branch`**<a name="branch"></a>
 
+[Go Init](#init)
+
 ### Click on **button master**
 
 From this window you can select the branch to work or create a new one.
@@ -206,7 +266,7 @@ Type on `Find or create a branch..` the name of a new branch.
 
 **`Make sure your branch name wasn't used before`** - you can add date (for example `branch_20201120`) to ensure its uniqueness.
 
-[![image](https://github.com/asistex/github_tips/raw/main/btn_branch.jpg)]())
+![image](https://github.com/asistex/github_tips/raw/main/btn_branch.jpg)
 
 Basic Branching and Merging
 
@@ -228,70 +288,19 @@ At this stage, you’ll receive a call that another issue is critical and you ne
 
     Switch back to your original user story and continue working.
 
-
-
 [Go Init](#init)
-
-
-
-
-
-## **`How to select from where and to where make the **pull request**`**<a name="fromto"></a>
-
-[Go Init](#init)
-
-To make a **Pull Request** click on button `Pull Request`
-
-[![image](https://github.com/asistex/github_tips/raw/main/btn_pr.jpg)]()
-
-Now you'll see something like this:
-
-[![image](https://github.com/asistex/github_tips/raw/main/compare3.jpg)]()
-
-And with the link **`Compare across forks`** you can select from and where to make the **Pull Request**.
-
-Take a look at the arrow. So in this case:
-
-[![image](https://github.com/asistex/github_tips/raw/main/compare4.jpg)]()
-
-You'll gonna
-```
-   update fork
-
-   `asistex/hmg` branch `master`
-
-   from
-
-   HMG-Official/HMG` branch `master`
-```
-
-Click on **`Compare across forks`** to change
-
-    **base repository**:  and  **base**:branch
-    **head repository**:  and  **compare**:branch
-
-After you are sure about what to do, you'll see a list of files changed with the diff in red and green. Check it and then click on **Create a Pull Request**
-
-After that:
-
-Fill the title and the form with info about pull request and click on **Create a Pull Request**
-
-If you are making a pull request to another fork then all was done.
-
-If you are updating your fork from another fork then click on **Merge pull request** and
-**Confirm merge**
-
-[Go Init](#init)
-
-
-[A real help of git](https://git-scm.com/book/en/)
-
-[A real help of github](https://docs.github.com/en/)
 
 
 
 
 ---
+
+[A real help of git](https://git-scm.com/book/en/)
+
+[A real help of github](https://docs.github.com/en/)
+
+---
+
 This document Copyright &copy;&nbsp;2020&ndash;present [asistex](https://github.com/asistex/)<br>
 [![Creative Commons Attribution-ShareAlike 4.0](https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
