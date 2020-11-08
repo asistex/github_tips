@@ -4,7 +4,7 @@
 
 ## How to collaborate on a project using GitHub in an easy way
 
-Very basic task on GitHub
+Very basic tasks on GitHub.
 
 ---
 
@@ -107,7 +107,6 @@ A summary of the issue and the OS environment in which it occurs. If suitable, i
 
 
 ---
-
 ## **`Pull Requests`** <a name="pull"></a>
 
 [Go Init](#init)
@@ -144,10 +143,9 @@ In short: The easier the code review is, the better the chance your pull request
 
 
 ---
-
 ## **`Pull Request. Your Repo is ahead to Master`**<a name="pull1"></a>
 
-[Go Top](#Top) [Init](#init)
+[Go Init](#init)
 
 What to do when you made changes in your fork and you want to add them to the master.
 
@@ -161,7 +159,6 @@ What to do when you made changes in your fork and you want to add them to the ma
 
 
 ---
-
 ## **` Pull Request. Your Repo is behind to Master`**<a name="pull2"></a>
 
 [Go Init](#init)
@@ -178,8 +175,7 @@ What to do when you want to add to your fork the changes in the master.
 
 
 ---
-
-## **`How to select from where and to where make the **pull request**`**<a name="fromto"></a>
+## **`How to select from where and to where make the Pull Request`**<a name="fromto"></a>
 
 [Go Init](#init)
 
@@ -230,7 +226,6 @@ If you are updating your fork from another fork then click on **Merge pull reque
 
 
 ---
-
 ## **`Editing sources files`**<a name="edit"></a>
 
 [Go Init](#init)
@@ -253,7 +248,6 @@ If you are updating your fork from another fork then click on **Merge pull reque
 
 
 ---
-
 ## **`How to create a branch`**<a name="branch"></a>
 
 [Go Init](#init)
@@ -294,10 +288,9 @@ At this stage, you’ll receive a call that another issue is critical and you ne
 
 
 ---
+[The real help of git](https://git-scm.com/book/en/)
 
-[A real help of git](https://git-scm.com/book/en/)
-
-[A real help of github](https://docs.github.com/en/)
+[The real help of github](https://docs.github.com/en/)
 
 ---
 
