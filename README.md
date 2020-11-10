@@ -1,4 +1,9 @@
 # ***GitHub tips*** <a name="init"></a>
+---
+
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/asistex/github_tips.svg)](http://isitmaintained.com/project/asistex/github_tips "Average time to resolve an issue")
+
+[![Percentage of issues still open](http://isitmaintained.com/badge/open/asistex/github_tips.svg)](http://isitmaintained.com/project/asistex/github_tips "Percentage of issues still open")
 
 ---
 
@@ -133,9 +138,7 @@ All **Pull Requests** need to be attached to a **issue** on GitHub. For **Pull R
 
 In short: The easier the code review is, the better the chance your pull request will get accepted.
 
-
 **IMPORTANT: By submitting a patch, you agree to allow the project owner to license your work under the same license as that used by the project.**
-
 
 [Go Init](#init)
 
