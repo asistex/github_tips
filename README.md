@@ -1,10 +1,8 @@
-# ***GitHub tips*** <a name="init"></a>
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/asistex/github_tips.svg)](http://isitmaintained.com/project/asistex/github_tips "Average time to resolve an issue")  [![Percentage of issues still open](http://isitmaintained.com/badge/open/asistex/github_tips.svg)](http://isitmaintained.com/project/asistex/github_tips "Percentage of issues still open")
+
 ---
 
-[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/asistex/github_tips.svg)](http://isitmaintained.com/project/asistex/github_tips "Average time to resolve an issue")
-
-[![Percentage of issues still open](http://isitmaintained.com/badge/open/asistex/github_tips.svg)](http://isitmaintained.com/project/asistex/github_tips "Percentage of issues still open")
-
+# ***GitHub tips*** <a name="init"></a>
 ---
 
 ## How to collaborate on a project using GitHub in an easy way
@@ -291,6 +289,8 @@ At this stage, you’ll receive a call that another issue is critical and you ne
 
 
 ---
+**`All of this information should be used at your own risk. There are no guarantees of any kind. MIT Licensey`**
+
 [The real help of git](https://git-scm.com/book/en/)
 
 [The real help of github](https://docs.github.com/en/)
